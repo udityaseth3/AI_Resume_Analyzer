@@ -9,4 +9,6 @@ dependencies = [
     "pypdf2>=3.0.1",
     "python-dotenv>=1.2.2",
     "streamlit>=1.55.0",
+    [tool.poetry]
+package-mode = false
 ]
