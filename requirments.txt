@@ -1,3 +1,5 @@
-streamlit>=1.36.0
-PyPDF2>=3.0.0
-google-generativeai
+ai_resume_analyzer/
+│
+├── app.py
+├── requirements.txt
+├── .gitignore
