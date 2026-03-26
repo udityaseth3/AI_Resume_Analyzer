@@ -1,5 +1,0 @@
-ai_resume_analyzer/
-│
-├── app.py
-├── requirements.txt
-├── .gitignore
