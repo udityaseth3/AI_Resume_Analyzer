@@ -1,0 +1,4 @@
+ai_resume_analyzer/
+│── appgit.py
+│── requirements.txt   
+│── app.py
