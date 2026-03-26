@@ -1,6 +1,4 @@
-import subprocess
-import sys
-subprocess.check_call([sys.executable, "-m", "pip", "install", "google-generativeai"])
+pip install google.generativeai
 import google.generativeai as genai
 import streamlit as st
 import PyPDF2
