@@ -1,0 +1,3 @@
+ai_resume_analyzer/
+│── appgit.py
+│── requirements.txt   ✅ (same level)
