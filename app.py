@@ -1,4 +1,4 @@
-pip install google.generativeai
+pip install generativeai
 import google.generativeai as genai
 import streamlit as st
 import PyPDF2
