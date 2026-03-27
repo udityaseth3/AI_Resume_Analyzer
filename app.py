@@ -1,4 +1,4 @@
-import googl-generativeai as genai
+import googl.generativeai as genai
 import streamlit as st
 import PyPDF2
 import os
