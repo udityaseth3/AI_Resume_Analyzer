@@ -34,25 +34,7 @@ AI_Resume_Analyzer/
 │── requirements.txt    # Dependencies
 │── .gitignore          # Ignored files
 │── README.md           # Project documentation
-⚙️ Installation & Setup
-1️⃣ Clone Repository
-git clone https://github.com/udityaseth3/AI_Resume_Analyzer.git
-cd AI_Resume_Analyzer
-2️⃣ Create Virtual Environment
-python -m venv venv
-venv\Scripts\activate   # Windows
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-🔑 Setup API Key (IMPORTANT)
 
-Create a .env file:
-
-GEMINI_API_KEY=your_api_key_here
-
-⚠️ Never upload your API key to GitHub.
-
-▶️ Run the App
-streamlit run app.py
 🌐 Deployment
 
 You can deploy this app on:
